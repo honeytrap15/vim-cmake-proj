@@ -43,8 +43,3 @@ Execute 'CMakeBuild' command. It generates vim-cmake-build directory and run bui
 ```
 :CMakeBuild
 ```
-
-This plugin output build log in new panel.
-
-```
-```
